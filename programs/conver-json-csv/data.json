@@ -1,0 +1,28 @@
+{   
+	"emp_details": [  
+	
+	{
+	     "emp_name": "mariam shah",
+	     "email": "mariamshah444@gmail.com",
+	     "job-profile": "intern"
+	     
+	},
+	
+	
+	
+	{
+	    "emp_name": "shahid ayoub",
+	    "email": "ayoub@trialx.com",
+	    "job-profile": "senior-software developer"
+	
+	}
+
+
+
+
+
+
+               ]
+
+
+}
